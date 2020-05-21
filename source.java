@@ -1,8 +1,8 @@
 public static void main(String[] ignored) {
    Scanner in = new Scanner(System.in);
-   String x = prompt(in);
-
-   System.out.println("Your name is "+x);
+   tring name= prompt(in);
+   S = prompt(in);
+   System.out.println("Your name is "+name);
 }
 
 private static String prompt(Scanner in){
