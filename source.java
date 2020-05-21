@@ -10,3 +10,8 @@ private static String prompt(Scanner in){
   return in.nextLine();
 }
 
+
+
+private static int countChar(String name){
+	return name.length();
+}
