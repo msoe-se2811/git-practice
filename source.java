@@ -10,8 +10,10 @@ private static String prompt(Scanner in){
   return in.nextLine();
 }
 
-
-
 private static int countChar(String name){
 	return name.length();
+}
+
+private static doThings(String n) {
+  return n.toUppercase();
 }
